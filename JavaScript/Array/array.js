@@ -28,3 +28,5 @@ console.log(aprovados[2])
 aprovados = ['Bia', 'Carlos', 'Ana']
 aprovados.splice(1, 2, 'Elemento1', 'Elemento2')   // ('1' apartir desse índice, '2' exclui a quantidade de indice do numero, adiciona novos elementos)
 console.log(aprovados)
+
+console.log('Alo mundo teste')
